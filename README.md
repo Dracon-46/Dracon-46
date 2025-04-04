@@ -61,3 +61,9 @@
 > "Aquele que não prevê o futuro distante expõe-se a desgraças próximas." — **Sun Tzu**
 
 ✨ Obrigado por visitar meu perfil!
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dracon-46/Dracon-46/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dracon-46/Dracon-46/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dracon-46/Dracon-46/output/github-contribution-grid-snake.svg">
+</picture>
