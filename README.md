@@ -6,9 +6,9 @@
 
 ### 💻 Sobre mim
 
-- 🔹 Desenvolvedor Full Stack com experiência em **Python, PHP, C#, SQL, C++, JavaScript e GDscript**.
+- 🔹 Desenvolvedor Full Stack com experiência em **Python, PHP, C#, SQL, C++, JavaScript, Node.js, Flutter e GDscript**.
 - ⚡ Conhecimento em **React Native, MVC, CRUD, SQL Server, MySQL e Cisco Packet Tracer**.
-- 🐍 Apaixonado por **Python e PHP**.
+- 🤖 Apaixonado por **I.A**.
 - 🎮 Interessado em desenvolvimento de **jogos e aplicações web**.
 
 ---
