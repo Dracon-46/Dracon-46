@@ -89,11 +89,11 @@ Rotina, estudos, trabalho, treinos e hábitos viram progressão de longo prazo: 
 
 <br/>
 
-<a href="https://github.com/Dracon-46/AetherTable"><img width="100%" src="assets/projetos/aethertable.svg" alt="AetherTable — Mesa sandbox multiformato para Magic: The Gathering" /></a>
+<a href="https://aether-table-frontend.vercel.app/"><img width="100%" src="assets/projetos/aethertable.svg" alt="AetherTable — Mesa sandbox multiformato para Magic: The Gathering" /></a>
 
 Não existe motor de regras, de propósito: o sistema move peças, sincroniza estado e esconde informação, e quem aplica as regras é a mesa, como numa partida de verdade. Estado da partida em tempo real no Colyseus, entrada por token assinado de uso único e aleatoriedade auditável.
 
-<a href="https://github.com/Dracon-46/AetherTable"><img height="38" src="assets/botoes/aethertable-codigo.svg" alt="Código do AetherTable" /></a>
+<a href="https://aether-table-frontend.vercel.app/"><img height="38" src="assets/botoes/aethertable-site.svg" alt="Acessar o AetherTable" /></a>
 
 <br/>
 
