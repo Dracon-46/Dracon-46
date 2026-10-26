@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159" height="38" viewBox="0 0 159 38" role="img" aria-label="Documentação">
+  <title>Documentação</title>
+  <rect x=".75" y=".75" width="157.5" height="36.5" rx="10" fill="#161b22" stroke="#7ee0a1" stroke-opacity=".6" stroke-width="1.5"/>
+  <g transform="translate(16,11) scale(.6667)"><path fill="none" stroke="#7ee0a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v16m8.001-2A2 2 0 0 0 22 17V5a2 2 0 0 0-1.999-2L16 3.002A5 5 0 0 0 12 5a5 5 0 0 0-4-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 1.999 2H8a5 5 0 0 1 4 2a5 5 0 0 1 4-2z"/></g>
+  <text x="40" y="24" style="font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f0f6fc;">Documentação</text>
+</svg>
