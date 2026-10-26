@@ -190,7 +190,7 @@ Coleta, normaliza e analisa dados de entes federativos (PNCP, IBGE, SICONFI e TS
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arthur-gaspare-camzano-60b513248"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:gasparecamzano@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="mailto:arthurgaspare@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://www.instagram.com/gaspare_camzano/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.youtube.com/@Dracon-46"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
