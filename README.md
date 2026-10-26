@@ -85,7 +85,6 @@ Um assistente que conversa em português, por texto e por voz, e roda inteiro na
 Rotina, estudos, trabalho, treinos e hábitos viram progressão de longo prazo: níveis com dificuldade crescente, atributos, missões, moedas, loja, conquistas e temporadas. Motor de gamificação próprio, web (PWA) e Android, com 151 testes automatizados e 7 de ponta a ponta.
 
 <a href="https://dracon-46.github.io/FalkyriaAscend/"><img height="38" src="assets/botoes/ascend-site.svg" alt="Site do Ascend" /></a>
-<a href="https://github.com/Dracon-46/FalkyriaAscend"><img height="38" src="assets/botoes/ascend-codigo.svg" alt="Código do Ascend" /></a>
 
 <br/>
 
