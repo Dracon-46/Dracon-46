@@ -46,7 +46,13 @@ Sob a marca **Falkyria**, transformo ideias em produtos completos. Sou apaixonad
 
 <a id="falkyria"></a>
 
-## <img src="assets/icons/hexagon.svg" width="24" height="24" /> Falkyria
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/falkyria-marca-branca.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo/falkyria-marca.svg" />
+    <img width="400" src="assets/logo/falkyria-marca.svg" alt="Falkyria" />
+  </picture>
+</h2>
 
 Falkyria é a marca sob a qual eu crio meus produtos: software independente, feito no Brasil, com testes, documentação de verdade e cada decisão de arquitetura registrada.
 

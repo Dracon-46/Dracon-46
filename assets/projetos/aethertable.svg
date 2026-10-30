@@ -49,7 +49,8 @@
     <g transform="translate(10,10)"><path fill="none" stroke="#b79cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18v4M2 14.499a5.5 5.5 0 0 0 9.591 3.675a.6.6 0 0 1 .818.001A5.5 5.5 0 0 0 22 14.5c0-2.29-1.5-4-3-5.5l-5.492-5.312a2 2 0 0 0-3-.02L5 8.999c-1.5 1.5-3 3.2-3 5.5"/></g>
   </g>
   <text x="100" y="52" class="kicker">MESA VIRTUAL</text>
-  <text x="100" y="72" class="brand">FALKYRIA</text>
+  <svg x="100" y="60" width="15" height="15" viewBox="40 0 480 500"><mask id="lg" maskUnits="userSpaceOnUse" x="0" y="0" width="600" height="600"><rect width="600" height="600" fill="#fff"/><g fill="#000"><polygon points="254.0,118.0 278.0,118.0 233.6,340.0 209.6,340.0"/><polygon points="254.0,118.0 560.0,35.4 560.0,59.4 254.0,142.0"/><polygon points="235.2,212.0 560.0,124.3 560.0,148.3 235.2,236.0"/></g></mask><path d="M54 198L58 160Q66 130 100 112Q120 102 150 96L205 100L300 74L400 42L504 14L486 58L492 84L452 150L460 178L410 232Q362 268 318 302Q284 336 272 392L238 494L184 412Q138 300 118 212L100 178Q84 166 70 176Z" fill="#ffffff" mask="url(#lg)"/><polygon points="118,130 158,120 148,139 124,142" fill="#b79cff"/></svg>
+  <text x="121" y="72" class="brand">FALKYRIA</text>
 
   <text x="40" y="130" class="name">AetherTable</text>
   <text x="40" y="160" class="tag">Mesa sandbox multiformato para Magic: The Gathering.</text>
