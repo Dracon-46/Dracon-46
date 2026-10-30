@@ -31,7 +31,7 @@
 
 ## <img src="assets/icons/user.svg" width="24" height="24" /> Sobre mim
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Dracon-46&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00A6FF&icon_color=00A6FF&text_color=c9d1d9&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
+<img align="right" width="420" src="https://raw.githubusercontent.com/Dracon-46/Dracon-46/output/stats.svg" alt="Estatísticas do GitHub" />
 
 Sou desenvolvedor full stack e gosto de problemas que pedem o sistema inteiro: a regra de negócio, o banco, a interface, o deploy e a documentação que explica por que cada decisão foi tomada.
 
@@ -169,8 +169,8 @@ Coleta, normaliza e analisa dados de entes federativos (PNCP, IBGE, SICONFI e TS
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Dracon-46&locale=pt_BR&hide_border=true&background=0d1117&ring=00A6FF&fire=00A6FF&currStreakLabel=00A6FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="Sequência de contribuições" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dracon-46&layout=compact&langs_count=8&hide=mermaid&hide_border=true&bg_color=0d1117&title_color=00A6FF&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="180" src="https://streak-stats.demolab.com?user=Dracon-46&locale=pt_BR&hide_border=true&background=0d1117&ring=00A6FF&fire=00A6FF&currStreakLabel=00A6FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="Sequência de contribuições" />
+<img height="180" src="https://raw.githubusercontent.com/Dracon-46/Dracon-46/output/top-langs.svg" alt="Linguagens mais usadas" />
 
 <br/><br/>
 
