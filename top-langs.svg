@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="232" viewBox="0 0 440 232" role="img" aria-label="Linguagens mais usadas">
+  <title>Linguagens mais usadas</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#00A6FF" stop-opacity=".16"/><stop offset="1" stop-color="#00A6FF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .title { font: 700 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+    .label { font: 400 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1d9; }
+    .value { font: 700 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+    .big { font: 800 34px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+    .small { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b949e; }
+    .row { opacity: 0; animation: in .5s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px) } to { opacity: 1; transform: none } }
+  </style>
+  <rect width="440" height="232" rx="14" fill="url(#bg)"/>
+  <rect width="440" height="232" rx="14" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="439" height="231" rx="13.5" fill="none" stroke="#00A6FF" stroke-opacity=".35"/>
+  <g transform="translate(24,22) scale(0.75)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 16l4-4l-4-4M6 8l-4 4l4 4m8.5-12l-5 16"/></g>
+  <text x="50" y="37" class="title">Linguagens mais usadas</text>
+  <clipPath id="bar"><rect x="24" y="56" width="392" height="10" rx="5"/></clipPath>
+  <rect x="24" y="56" width="392" height="10" rx="5" fill="#30363d"/>
+  <g clip-path="url(#bar)"><rect x="24.00" y="56" width="193.68" height="10" fill="#3572A5"/><rect x="217.68" y="56" width="141.27" height="10" fill="#3178c6"/><rect x="358.95" y="56" width="25.10" height="10" fill="#f1e05a"/><rect x="384.06" y="56" width="11.12" height="10" fill="#dea584"/><rect x="395.17" y="56" width="6.17" height="10" fill="#00B4AB"/><rect x="401.35" y="56" width="3.94" height="10" fill="#663399"/><rect x="405.28" y="56" width="3.40" height="10" fill="#e34c26"/><rect x="408.68" y="56" width="2.15" height="10" fill="#89e051"/></g>
+  <g class="row" style="animation-delay:150ms"><circle cx="29" cy="92" r="5" fill="#3572A5"/><text x="42" y="96" class="label">Python</text><text x="214" y="96" class="value" text-anchor="end">49,4%</text></g>
+  <g class="row" style="animation-delay:220ms"><circle cx="231" cy="92" r="5" fill="#3178c6"/><text x="244" y="96" class="label">TypeScript</text><text x="416" y="96" class="value" text-anchor="end">36,0%</text></g>
+  <g class="row" style="animation-delay:290ms"><circle cx="29" cy="120" r="5" fill="#f1e05a"/><text x="42" y="124" class="label">JavaScript</text><text x="214" y="124" class="value" text-anchor="end">6,4%</text></g>
+  <g class="row" style="animation-delay:360ms"><circle cx="231" cy="120" r="5" fill="#dea584"/><text x="244" y="124" class="label">Rust</text><text x="416" y="124" class="value" text-anchor="end">2,8%</text></g>
+  <g class="row" style="animation-delay:430ms"><circle cx="29" cy="148" r="5" fill="#00B4AB"/><text x="42" y="152" class="label">Dart</text><text x="214" y="152" class="value" text-anchor="end">1,6%</text></g>
+  <g class="row" style="animation-delay:500ms"><circle cx="231" cy="148" r="5" fill="#663399"/><text x="244" y="152" class="label">CSS</text><text x="416" y="152" class="value" text-anchor="end">1,0%</text></g>
+  <g class="row" style="animation-delay:570ms"><circle cx="29" cy="176" r="5" fill="#e34c26"/><text x="42" y="180" class="label">HTML</text><text x="214" y="180" class="value" text-anchor="end">0,9%</text></g>
+  <g class="row" style="animation-delay:640ms"><circle cx="231" cy="176" r="5" fill="#89e051"/><text x="244" y="180" class="label">Shell</text><text x="416" y="180" class="value" text-anchor="end">0,5%</text></g>
+</svg>

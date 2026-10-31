@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="232" viewBox="0 0 440 232" role="img" aria-label="Estatísticas no GitHub">
+  <title>Estatísticas no GitHub</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#00A6FF" stop-opacity=".16"/><stop offset="1" stop-color="#00A6FF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .title { font: 700 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+    .label { font: 400 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1d9; }
+    .value { font: 700 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+    .big { font: 800 34px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+    .small { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b949e; }
+    .row { opacity: 0; animation: in .5s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px) } to { opacity: 1; transform: none } }
+  </style>
+  <rect width="440" height="232" rx="14" fill="url(#bg)"/>
+  <rect width="440" height="232" rx="14" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="439" height="231" rx="13.5" fill="none" stroke="#00A6FF" stroke-opacity=".35"/>
+  <g transform="translate(24,22) scale(0.75)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v16a2 2 0 0 0 2 2h16m-3-4V9m-5 8V5M8 17v-3"/></g>
+  <text x="50" y="37" class="title">Estatísticas no GitHub</text>
+  <g class="row" style="animation-delay:150ms"><g transform="translate(24,56) scale(0.6666666666666666)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M3 12h6m6 0h6"/></g><text x="50" y="68" class="label">Commits no último ano</text><text x="246" y="68" class="value" text-anchor="end">1.005</text></g>
+  <g class="row" style="animation-delay:240ms"><g transform="translate(24,83) scale(0.6666666666666666)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><path d="M13 6h3a2 2 0 0 1 2 2v7M6 9v12"/></g><text x="50" y="95" class="label">Pull requests</text><text x="246" y="95" class="value" text-anchor="end">67</text></g>
+  <g class="row" style="animation-delay:330ms"><g transform="translate(24,110) scale(0.6666666666666666)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="1"/><circle cx="12" cy="12" r="10"/></g><text x="50" y="122" class="label">Issues</text><text x="246" y="122" class="value" text-anchor="end">10</text></g>
+  <g class="row" style="animation-delay:420ms"><g transform="translate(24,137) scale(0.6666666666666666)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v8l3-3l3 3V2"/><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/></g><text x="50" y="149" class="label">Repositórios</text><text x="246" y="149" class="value" text-anchor="end">21</text></g>
+  <g class="row" style="animation-delay:510ms"><g transform="translate(24,164) scale(0.6666666666666666)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.12 2.12 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.12 2.12 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.12 2.12 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.12 2.12 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.12 2.12 0 0 0 1.597-1.16z"/></g><text x="50" y="176" class="label">Estrelas recebidas</text><text x="246" y="176" class="value" text-anchor="end">0</text></g>
+  <g class="row" style="animation-delay:600ms"><g transform="translate(24,191) scale(0.6666666666666666)" fill="none" stroke="#00A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M16 3.128a4 4 0 0 1 0 7.744M22 21v-2a4 4 0 0 0-3-3.87"/><circle cx="9" cy="7" r="4"/></g><text x="50" y="203" class="label">Seguidores</text><text x="246" y="203" class="value" text-anchor="end">2</text></g>
+  <line x1="272" y1="58" x2="272" y2="210" stroke="#30363d"/>
+  <g transform="translate(346,0)">
+    <circle cx="0" cy="118" r="52" fill="none" stroke="#30363d" stroke-width="6"/>
+    <circle cx="0" cy="118" r="52" fill="none" stroke="#00A6FF" stroke-width="6" stroke-linecap="round" stroke-dasharray="327" stroke-dashoffset="327" transform="rotate(-90 0 118)">
+      <animate attributeName="stroke-dashoffset" from="327" to="0" dur="1.2s" fill="freeze"/>
+    </circle>
+    <text x="0" y="122" class="big" text-anchor="middle" style="font-size:26px">1.097</text>
+    <text x="0" y="140" class="small" text-anchor="middle">contribuições</text>
+    <text x="0" y="196" class="small" text-anchor="middle">no último ano · desde 2021</text>
+  </g>
+</svg>
