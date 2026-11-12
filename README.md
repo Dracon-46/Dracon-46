@@ -113,7 +113,7 @@ Coleta, normaliza e analisa dados de entes federativos (PNCP, IBGE, SICONFI e TS
 
 <a href="https://jogos-navegador.vercel.app"><img width="100%" src="assets/projetos/games.svg" alt="Games — Um fliperama inteiro no navegador" /></a>
 
-Trinta jogos que abrem num clique, sem instalar nada: xadrez com motor próprio (IA em Web Worker, Chess960, Rei da Colina, Três Xeques e relógio), damas, sudoku e clássicos de arcade, além de experimentos em WebGL com dezenas de milhares de partículas e shaders GLSL escritos à mão.
+Trinta e dois jogos que abrem num clique, sem instalar nada: xadrez com motor próprio (IA em Web Worker, Chess960, Rei da Colina, Três Xeques e relógio), damas, sudoku e clássicos de arcade, além de experimentos em WebGL com dezenas de milhares de partículas e shaders GLSL escritos à mão.
 
 <a href="https://jogos-navegador.vercel.app"><img height="38" src="assets/botoes/games-site.svg" alt="Jogar agora" /></a>
 <a href="https://github.com/Dracon-46/Games"><img height="38" src="assets/botoes/games-codigo.svg" alt="Código do Games" /></a>
